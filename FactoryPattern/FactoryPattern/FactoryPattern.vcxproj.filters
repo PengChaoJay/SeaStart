@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\TransPort">
+      <UniqueIdentifier>{af7c5107-ca60-494e-9429-2e8600a953c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\ArtStyle">
+      <UniqueIdentifier>{5e74c2a5-da05-44e9-ad48-89f6a2be8a6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\ModernStyle">
+      <UniqueIdentifier>{e1fa0089-ec9b-4e71-998d-3e1b68e42ca2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\VictorianStyle">
+      <UniqueIdentifier>{5654505f-48f6-4b0c-acbb-b19391a597df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Transport">
+      <UniqueIdentifier>{9ad13739-ad87-48ae-9b29-fd449bac9c6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Factory">
+      <UniqueIdentifier>{52602834-3f43-4512-8a9f-afd2e76911b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Factory">
+      <UniqueIdentifier>{c6ec8b29-594a-4f14-b56b-9efa35ec033e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Furniture">
+      <UniqueIdentifier>{a99e09e6-bb6a-48a9-b333-529cbd510001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Logistics">
+      <UniqueIdentifier>{36821f1b-d623-44f6-bbfb-89c02d749d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Logistics">
+      <UniqueIdentifier>{b5638b0e-913f-4cfd-ba5b-5cdcc6e54aec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Furniture">
+      <UniqueIdentifier>{5a6834b7-8a60-43b9-982f-c360ecc8b59e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArtChair.h">
+      <Filter>头文件\ArtStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="ArtCoffeeTable.h">
+      <Filter>头文件\ArtStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="ArtSofa.h">
+      <Filter>头文件\ArtStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="ModernChair.h">
+      <Filter>头文件\ModernStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="ModernCoffeeTable.h">
+      <Filter>头文件\ModernStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="ModernSofa.h">
+      <Filter>头文件\ModernStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="VictorianChair.h">
+      <Filter>头文件\VictorianStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="VictorianCoffeeTable.h">
+      <Filter>头文件\VictorianStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="VictorianSofa.h">
+      <Filter>头文件\VictorianStyle</Filter>
+    </ClInclude>
+    <ClInclude Include="Air.h">
+      <Filter>头文件\TransPort</Filter>
+    </ClInclude>
+    <ClInclude Include="Ship.h">
+      <Filter>头文件\TransPort</Filter>
+    </ClInclude>
+    <ClInclude Include="Truck.h">
+      <Filter>头文件\TransPort</Filter>
+    </ClInclude>
+    <ClInclude Include="FurnitureFactory.h">
+      <Filter>头文件\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="ModernFactory.h">
+      <Filter>头文件\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="VictorianFactory.h">
+      <Filter>头文件\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="AirFactory.h">
+      <Filter>头文件\Factory</Filter>
+    </ClInclude>
+    <ClInclude Include="Chair.h">
+      <Filter>头文件\Furniture</Filter>
+    </ClInclude>
+    <ClInclude Include="Sofa.h">
+      <Filter>头文件\Furniture</Filter>
+    </ClInclude>
+    <ClInclude Include="CoffeeTable.h">
+      <Filter>头文件\Furniture</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseFurniture.h">
+      <Filter>头文件\Furniture</Filter>
+    </ClInclude>
+    <ClInclude Include="Logistics.h">
+      <Filter>头文件\Logistics</Filter>
+    </ClInclude>
+    <ClInclude Include="AirLogistics.h">
+      <Filter>头文件\Logistics</Filter>
+    </ClInclude>
+    <ClInclude Include="RoadLogistics.h">
+      <Filter>头文件\Logistics</Filter>
+    </ClInclude>
+    <ClInclude Include="SeaLogistics.h">
+      <Filter>头文件\Logistics</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseTransport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogisticsCreateFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FurnitureCreateFactory.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Truck.cpp">
+      <Filter>源文件\Transport</Filter>
+    </ClCompile>
+    <ClCompile Include="Air.cpp">
+      <Filter>源文件\Transport</Filter>
+    </ClCompile>
+    <ClCompile Include="Ship.cpp">
+      <Filter>源文件\Transport</Filter>
+    </ClCompile>
+    <ClCompile Include="VictorianFactory.cpp">
+      <Filter>源文件\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="ModernFactory.cpp">
+      <Filter>源文件\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="AirFactory.cpp">
+      <Filter>源文件\Factory</Filter>
+    </ClCompile>
+    <ClCompile Include="AirLogistics.cpp">
+      <Filter>源文件\Logistics</Filter>
+    </ClCompile>
+    <ClCompile Include="RoadLogistics.cpp">
+      <Filter>源文件\Logistics</Filter>
+    </ClCompile>
+    <ClCompile Include="SeaLogistics.cpp">
+      <Filter>源文件\Logistics</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseFurniture.cpp">
+      <Filter>源文件\Furniture</Filter>
+    </ClCompile>
+    <ClCompile Include="LogisticsCreateFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FurnitureCreateFactory.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Basetransport.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

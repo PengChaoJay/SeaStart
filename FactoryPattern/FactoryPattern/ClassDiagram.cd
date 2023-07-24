@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Air" Collapsed="true">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Air.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirFactory" Collapsed="true">
+    <Position X="2.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAIAAAAAAACAAAAAAIAAAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>AirFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AirLogistics" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAY=</HashCode>
+      <FileName>AirLogistics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtChair" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArtChair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtCoffeeTable" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAA=</HashCode>
+      <FileName>ArtCoffeeTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ArtSofa" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ArtSofa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseFurniture" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAABAAAAAAAAAAEAABAAAAEAAAAAAA=</HashCode>
+      <FileName>BaseFurniture.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BaseTransport" Collapsed="true">
+    <Position X="10.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAIQAAAAAAAABEAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseTransport.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chair" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CoffeeTable" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoffeeTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureCreateFactory" Collapsed="true">
+    <Position X="18" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAACAAAAAAAAAIAIAAAAAAEAAIA=</HashCode>
+      <FileName>FurnitureCreateFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FurnitureFactory" Collapsed="true">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAEAAAAAAAACAAAAAAAAAAAIAAAQAAAAAAA=</HashCode>
+      <FileName>FurnitureFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logistics" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAACAAAAAAAAAAAAEEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logistics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogisticsCreateFactory" Collapsed="true">
+    <Position X="15.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAABAAAAAA=</HashCode>
+      <FileName>LogisticsCreateFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernChair" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModernChair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernCoffeeTable" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModernCoffeeTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernFactory" Collapsed="true">
+    <Position X="6.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAACAAAAAAAAAAAIAAAQQAAAAAQ=</HashCode>
+      <FileName>ModernFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ModernSofa" Collapsed="true">
+    <Position X="19" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ModernSofa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoadLogistics" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAgQ=</HashCode>
+      <FileName>RoadLogistics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SeaLogistics" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAEAAAAAAEAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SeaLogistics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ship" Collapsed="true">
+    <Position X="10.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ship.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="17" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Singleton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sofa" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Sofa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Truck" Collapsed="true">
+    <Position X="13" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Truck.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VictorianChair" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>VictorianChair.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VictorianCoffeeTable" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VictorianCoffeeTable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VictorianFactory" Collapsed="true">
+    <Position X="4.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAAAAAAAACAAAAAIAAAAAIAAAAAAAAAAQ=</HashCode>
+      <FileName>VictorianFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VictorianSofa" Collapsed="true">
+    <Position X="14.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>VictorianSofa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
